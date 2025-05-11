@@ -39,11 +39,11 @@ We applied the following models:
 
 After evaluating all models, **Logistic Regression** was found to have the best overall performance for predicting engagement rate level. It provided clear interpretability and robust accuracy.
 
-![Confusion Matrix Logistic Regression](All%Model%-%Feature%Importance.png)
-
 📌 Aggregated feature importance shows that:
 - `Views` is the most important feature
 - Followed by `Likes`, then `Shares`, and lastly `Comments`
+
+![Feature Importance](All%20Model%20-%20Feature%20Importance.png)
 
 ## 🧪 A/B Testing Suggestion
 
