@@ -20,8 +20,8 @@ This project uses a dataset sourced from Kaggle titled **"Viral Social Media Tre
 ### 1. **K-Means Clustering**
 Unsupervised technique to cluster posts into 3 levels:
 - **Cluster 0 (Low ER):** High views, but low engagement
-- **Cluster 1 (High ER):** Low views, but very high likes, comments, and shares
-- **Cluster 2 (Medium ER):** Balanced views and engagement
+- **Cluster 1 (Medium ER):** Balanced views and engagement
+- **Cluster 2 (High ER):** Low views, but very high likes, comments, and shares
 
 These clusters are used as `Engagement_Rate_Level` for supervised modeling.
 
