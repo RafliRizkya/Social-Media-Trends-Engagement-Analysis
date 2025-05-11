@@ -11,14 +11,9 @@ To analyze social media content performance, especially how views, likes, commen
 
 ## 📁 Dataset
 
-The dataset consists of social media post metrics, including:
-- `Views`
-- `Likes`
-- `Shares`
-- `Comments`
-- `Engagement_Rate`
+This project uses a dataset sourced from Kaggle titled **"Viral Social Media Trends and Engagement Analysis"**, which can be accessed via the following link:
 
-All data is anonymized and preprocessed for clustering and modeling.
+🔗 [Kaggle Dataset - Viral Social Media Trends and Engagement Analysis](https://www.kaggle.com/datasets/atharvasoundankar/viral-social-media-trends-and-engagement-analysis/discussion?sort=hotness)
 
 ## 🧠 Methods Used
 
