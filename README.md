@@ -35,9 +35,11 @@ We applied the following models:
 - Decision Tree (with and without resampling)
 - Random Forest (with and without resampling)
 - XGBoost (with and without resampling)
-- **Logistic Regression**
+- Logistic Regression (with and without resampling)
 
 After evaluating all models, **Logistic Regression** was found to have the best overall performance for predicting engagement rate level. It provided clear interpretability and robust accuracy.
+
+![Confusion Matrix Logistic Regression](All%Model%-%Feature%Importance.png)
 
 📌 Aggregated feature importance shows that:
 - `Views` is the most important feature
