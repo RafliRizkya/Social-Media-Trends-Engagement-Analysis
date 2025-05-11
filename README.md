@@ -58,7 +58,3 @@ I uploaded a Power BI Dashboard in this repository to visualize the results inte
 Rafli Rizkya Sakti Nugraha  
 📎 [LinkedIn](https://www.linkedin.com/in/raflirzkyaa/)  
 📬 For collaboration: raflirsn15@gmail.com  
-
----
-
-📌 *Note: This project is part of a data analysis learning initiative and is based on sample or anonymized data.*
